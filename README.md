@@ -1,4 +1,4 @@
-# Hi, I'm Yatit 👋 I've been building software since 2012.
+# Hi, I'm Yatit 👋 I've been building software since 2012
 
 I like making things. Then I like making them better.
 
