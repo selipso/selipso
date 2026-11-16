@@ -1,21 +1,19 @@
 # Hi, I'm Yatit 👋 I've been building software since 2012
 
-I like making things. Then I like making them better.
-
 I wrote my first Python in 2012 and my first JavaScript in 2013. Since then I've shipped code for **NASA**, **Apple**, **Juniper Networks** (now part of HP Enterprise), and several financial and healthcare organizations, plus small teams where I was one of two engineers.
 
 ## What you get when you work with me
 
 - **Frontend, backend, and data engineering.** I use React and Angular for the interface, Node.js and Flask for the server, and Pandas and Informatica for the data pipeline. I can take a feature from the database schema all the way to the button you click. ([See the full toolbox ↓](#60-tools-ive-worked-with))
 - **A product manager's habits.** I spent 2–3 years in product management. I ask "who is this for, and how will we know it worked?" before I ask "which framework?"
-- **Experience with strict rules.** Finance and healthcare taught me to treat privacy, audit trails, and uptime as requirements from the first day.
+- **Experience with regulated environments.** Networking and healthcare taught me to treat privacy, audit trails, and uptime as requirements from the first day. Enterprise-grade support showed me how to prioritize the customer first.
 - **Comfort at any size.** I've worked inside very large companies and very small teams, and I know what each one needs from an engineer.
 
 ## Things I've built that you can try right now
 
 ### 📚 [Kapisce](https://kapisce.com): *Classics, reopened.*
 
-Classic novels for people who want to actually finish them.
+Classic novels with i18n support, integrated with a chapter-level speed reader.
 
 - Free plain-text editions, sourced from Project Gutenberg, that stay free
 - Enhanced editions with annotations, footnotes, and scene illustrations
@@ -31,7 +29,7 @@ Lessons, practice sets, and scoring rubrics for AP Physics 1 & 2, Calculus AB & 
 - Works offline, uses no cookies, and keeps student scores in the browser instead of on a server
 
 > [!NOTE]
-> **Why does my contribution graph have gaps?** Most of my professional work lives in private repositories, and I keep confidential code confidential. **More GitHub accounts and portfolio sites are available on request.**
+> **Why does my contribution graph have gaps?** Most of my professional work lives in private repositories. **More GitHub accounts and portfolio sites are available on request.**
 
 ## 60+ tools I've worked with
 
